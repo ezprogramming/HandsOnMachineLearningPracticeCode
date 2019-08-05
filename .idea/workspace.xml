@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fc900b4-6fc0-458a-a3df-066536d15a9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HandsOnMachineLearningPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/leizheng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handson-ml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="8fc900b4-6fc0-458a-a3df-066536d15a9b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +55,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
+    <option name="x" value="19" />
     <option name="y" value="1103" />
     <option name="width" value="1421" />
     <option name="height" value="869" />
@@ -170,17 +158,17 @@
       <workItem from="1565000489621" duration="459000" />
       <workItem from="1565001021832" duration="536000" />
       <workItem from="1565001579319" duration="25000" />
-      <workItem from="1565001649699" duration="1139000" />
+      <workItem from="1565001649699" duration="1295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2159000" />
+    <option name="totallyTimeSpent" value="2315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="91" y="1103" width="1421" height="869" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26033357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26033357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,7 +182,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010877" side_tool="true" weight="0.32947233" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32947233" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32947233" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49963742" weight="0.32947233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -240,6 +228,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HandsOnMachineLearningPractice$HandsOnMachineLearningPractice.coverage" NAME="linearModel Coverage Results" MODIFIED="1565002438771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HandsOnMachineLearningPractice$linearModel.coverage" NAME="linearModel Coverage Results" MODIFIED="1565002996358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HandsOnMachineLearningPractice$linear_model.coverage" NAME="linear_model Coverage Results" MODIFIED="1565001494878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
